@@ -1,0 +1,6 @@
+{
+  "name": "Nightfury Street Racing",
+  "description": "High-octane 3D arcade street racing game with nighttime neon city tracks, dynamic physics, drifting, nitro boosts, traffic, and customizable sports cars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
